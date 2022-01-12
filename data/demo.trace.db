@@ -1,0 +1,18 @@
+2022-01-11 22:57:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTRY" not found; SQL statement:
+select entry0_.id as id1_0_0_, entry0_.added_at as added_at2_0_0_, entry0_.is_sent as is_sent3_0_0_, entry0_.retry_count as retry_co4_0_0_ from entry entry0_ where entry0_.id=? [42102-200]
+2022-01-11 22:59:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTRY" not found; SQL statement:
+select entry0_.id as id1_0_0_, entry0_.added_at as added_at2_0_0_, entry0_.is_sent as is_sent3_0_0_, entry0_.retry_count as retry_co4_0_0_ from entry entry0_ where entry0_.id=? [42102-200]
+2022-01-11 23:00:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTRY" not found; SQL statement:
+select entry0_.id as id1_0_0_, entry0_.added_at as added_at2_0_0_, entry0_.is_sent as is_sent3_0_0_, entry0_.retry_count as retry_co4_0_0_ from entry entry0_ where entry0_.id=? [42102-200]
+2022-01-11 23:04:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTRY" not found; SQL statement:
+select entry0_.id as id1_0_0_, entry0_.added_at as added_at2_0_0_, entry0_.is_sent as is_sent3_0_0_, entry0_.retry_count as retry_co4_0_0_ from entry entry0_ where entry0_.id=? [42102-200]
+2022-01-11 23:09:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTRY" not found; SQL statement:
+select entry0_.id as id1_0_0_, entry0_.added_at as added_at2_0_0_, entry0_.is_sent as is_sent3_0_0_, entry0_.retry_count as retry_co4_0_0_ from entry entry0_ where entry0_.id=? [42102-200]
+2022-01-11 23:11:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ENTRY" not found; SQL statement:
+select entry0_.id as id1_0_0_, entry0_.added_at as added_at2_0_0_, entry0_.is_sent as is_sent3_0_0_, entry0_.retry_count as retry_co4_0_0_ from entry entry0_ where entry0_.id=? [42102-200]
